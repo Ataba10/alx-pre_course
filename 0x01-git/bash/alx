@@ -1,6 +1,2 @@
 #!/bin/bash
-echo "ALX"
-root@71757f151b44:/alx-pre_course/0x01-git/bash# cat > school
-#!/bin/bash
-echo "School"
-root@71757f151b44:/alx-pre_course/0x01-git/bash# git add .
+echo "ALX School is so cool!"
